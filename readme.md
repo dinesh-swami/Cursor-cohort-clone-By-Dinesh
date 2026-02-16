@@ -38,7 +38,7 @@
 
 <p align="center">
   🚀 
-  <a href="YOUR_DEPLOYED_WEBSITE_LINK_HERE" target="_blank" rel="noopener noreferrer">
+  <a href="https://cursor-cohort-clone-by-dinesh.vercel.app/" target="_blank" rel="noopener noreferrer">
     <b>Visit Live Website</b>
   </a>
 </p>
